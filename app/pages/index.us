@@ -31,7 +31,7 @@
                         class="glyphicon glyphicon-cog"></span> Services </a></li>
                 <li id="contactLi" class="contact" data-toggle="tooltip" data-placement="bottom" title="Type 'C'"><a
                         class="clickMe" data-link="contact" href="#contact"><span
-                        class="glyphicon glyphicon-user"></span> Contact Us </a></li>
+                        class="glyphicon glyphicon-envelope"></span> Contact Us </a></li>
                 <li id="aboutLi" class="about" data-toggle="tooltip" data-placement="bottom" title="Type 'A'"><a
                         class="clickMe" data-link="about" href="#about"><span
                         class="glyphicon glyphicon-user"></span> About Us </a></li>
