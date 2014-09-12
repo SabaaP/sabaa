@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= pkg.description %></title>
+    <link rel="stylesheet" type="text/css" href="<%= css %>" media="all"/>
+    <link rel="shortcut icon" href="img/sabaa.png">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="animated fadeIn">
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><img src="img/sabaa.png" alt="Sabaa"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul id="navigation" class="nav navbar-nav">
+                <li id="homeLi" class="home active" data-toggle="tooltip" data-placement="bottom" title="Type 'H'"><a
+                        class="clickMe" data-link="home" href="#home"><span 
+                        class="glyphicon glyphicon-home"></span> Home </a></li>
+                <li id="servicesLi" class="services" data-toggle="tooltip" data-placement="bottom" title="Type 'S'"><a
+                        class="clickMe" data-link="services" href="#services"><span
+                        class="glyphicon glyphicon-cog"></span> Services </a></li>
+                <li id="contactLi" class="contact" data-toggle="tooltip" data-placement="bottom" title="Type 'C'"><a
+                        class="clickMe" data-link="contact" href="#contact"><span
+                        class="glyphicon glyphicon-user"></span> Contact Us </a></li>
+                <li id="aboutLi" class="about" data-toggle="tooltip" data-placement="bottom" title="Type 'A'"><a
+                        class="clickMe" data-link="about" href="#about"><span
+                        class="glyphicon glyphicon-user"></span> About Us </a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="home" class="seperate"></div>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="item animated fast active">
+            <div class="container">
+                <div class="carousel-caption">
+                    <img src="img/sip.png" alt="" width="100%" height="100%">
+
+                    <h1><span class="sabaa animated bounceInUp">Truth </span><span
+                            class="intellectual animated bounceInUp">builds </span> <span
+                            class="property animated bounceInUp">trust..</span></h1>
+
+                    <p>&nbsp;</p>
+
+                    <p><a class="clickMe btn btn-lg btn-primary" href="#contact" role="button"><span
+                            class="glyphicon glyphicon-tower"></span> Join us today</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="item animated fast">
+            <div class="container">
+                <div class="carousel-caption">
+                    <img src="img/sip.png" alt="" width="100%" height="100%">
+                    <h1><span class="sabaa animated bounceInUp">Service is not something we do. </span><span
+                            class="intellectual animated bounceInUp"> It is something we are..</span></h1>
+
+                    <p>&nbsp;</p>
+
+                    <p><a class="clickMe btn btn-lg btn-primary" href="#services" role="button"><span
+                            class="glyphicon glyphicon-star-empty"></span> Services</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="item animated fast">
+            <div class="container">
+                <div class="carousel-caption">
+                    <img src="img/sip.png" alt="" width="100%" height="100%">
+
+                    <h1><span class="sabaa animated bounceInUp">Customers love certainty, </span><span
+                            class="intellectual animated bounceInUp">we make sure </span> <span
+                            class="property animated bounceInUp">we give it to them.</span></h1>
+
+
+                    <p>&nbsp;</p>
+
+                    <p><a class="clickMe btn btn-lg btn-primary" href="#services" role="button"><span
+                            class="glyphicon glyphicon-picture"></span> Services</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev" data-toggle="tooltip" data-placement="bottom"
+       title="Press '<-'"><span
+            class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next" data-toggle="tooltip" data-placement="bottom"
+       title="Press '->'"><span
+            class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<div class="container">
+    <div id="services" class="seperate"></div>
+
+    <hr class="colorgraph">
+    <div class="row">
+        <div class="col-xs-8">
+            <br>
+            <h5><b>Membership Of International Bodies</b></h5>
+            <h5 class="blue_color">WIPO Treaties</h5>
+            <ul>
+                <li>WIPO Convention, since February 1997.</li>
+                <li>Paris Convention (Industrial Property), since July 1999.</li>
+                <li>Berne Convention (Literary and Artistic Works), since July 1999.</li>
+                <li>PCT (Patents), since October 2001.</li>
+                <li>PLT (Patent Law Treaty), since October 2007.</li>
+                <li>Madrid Protocol (International Registration of Marks), since October 2007.</li>
+                <li>Budapest Treaty (Deposit of Micro-organisms), since October 2007.</li>
+                <li>Nairobi Treaty (Olympic Symbol), since March 1986.</li>
+                <li>TLT (Trademarks), since October 2007.</li>
+                <li>WCT (WIPO Copyright Treaty), since September 2005.</li>
+                <li>WPPT (WIPO Performances and Phonograms Treaty), since September 2005.</li>
+            </ul>
+            <h5 class="blue_color">WTO</h5>
+            <span>Member and Signatory of the TRIPS Agreement, since November 2000.</span>
+            <h5 class="blue_color">Other</h5>
+            <span>Member of Gulf Cooperation Council, since November 1981.</span>
+
+            <h5><b>National Law & Regulations</b></h5>
+            <h5 class="blue_color">IP Rights</h5>
+
+            <h5><b>Patents</b></h5>
+            <span>- Royal Decree No. 82/2000, Patent Law</span>
+
+            <h5><b>Trade Marks</b></h5>
+            <span>- Royal Decree No. 38/2000, Law on Trademarks, Indications and Secrets and Protection against Unfair Competition</span>
+
+            <h5><b>Industrial Design</b></h5>
+            <span>- Royal Decree No. 39/2000, Law on the Protection of Industrial Designs</span>
+
+            <h5><b>Copy Rights</b></h5>
+            <span>- Royal decree No. 65/2008 Law on the protection of copy right and related right</span>
+
+            <h5><b>Geographical Indications</b></h5>
+            <span>- Royal Decree No. 40/2000, Law on the Protection of Geographical Indications. Also as above, under Trademarks (Royal Decree No.38/2000)</span>
+
+            <h5><b>Integrated Circuits</b></h5>
+            <span>- Royal Decree No. 41/2000, Law on the Protection of Topographies Rights of Integrated Circuits</span>
+        </div>
+        <div class="col-xs-4">
+            <div style="background-color: #afd9ee;height: 100%">
+                <div class="seperate"></div>
+                <h3>Laws</h3>
+                <ul>
+                    <li>Copyright</li>
+                    <li>Domain Names</li>
+                    <li>Geographical Indication</li>
+                    <li>Industrial Design & Models</li>
+                    <li>Integrated Circuits</li>
+                    <li>Patent</li>
+                    <li>Plant Variety</li>
+                    <li>Trade Marks</li>
+                </ul>
+                <div class="seperate"></div>
+                <h3>Forms</h3>
+
+                <ul>
+                    <li>Deed Of Assignments (DS)</li>
+                    <li>Deed Of Assignments (PT)</li>
+                    <li>Deed Of Assignments (TM)</li>
+                    <li>Power Of Attorney</li>
+                </ul>
+                <div class="seperate"></div>
+                <h3>Requirements</h3>
+
+                <ul>
+                    <li>* Requirements</li>
+                </ul>
+                <div class="seperate"></div>
+                <h3>Tariff Of Charges</h3>
+
+                <ul>
+                    <li>* Tariff of Charges</li>
+                </ul>
+                <div class="seperate"></div>
+                <div class="seperate"></div>
+            </div>
+        </div>
+    </div>
+    <div id="contact">&nbsp;</div>
+    <hr class="colorgraph">
+    <div class="row">
+    <div class="col-xs-12">
+        <h3><span class="label label-info">Get in touch and go tell your friends..!</span></h3>
+        <div class="well">
+    
+        <p><b>Postal Address</b><br/><br/>
+
+        Sabaa Intellectual Property<br/>
+        Syed Hilal Bin Saud Bin Hareb Al Busaidi Building<br/>
+        First floor, Flat NO 11, Commercial Area<br/>
+        Opposite HSBC Bank, Near SOHAR Bank<br/>
+        Complex NO 127, Way or Street NO 2710<br/>
+        Bulding NO 600<br/>
+        --------------------------------------------------------------------<br/>
+        <b>Tel:&nbsp;&nbsp;</b>968 24 707057<br/>
+        <b>Fax: </b>968 24 707052<br/><br/>
+    
+        <b>Email:</b> <a href="mailto:sabaa@sbaaoman.com?Subject=Hello%20Sabaa">sabaa@sbaaoman.com</a><br/>
+        </p>
+    </div>
+    </div>
+    </div>
+
+    <div id="about" class="separate"></div>
+    <hr class="colorgraph">
+    <div class="row">
+<div class="col-xs-6">
+
+<h4>SABAA Intellectual Property</h4>
+<p>Dear Sir;</p>
+
+<p>We took this opportunity of introduce our Firm, SABAA Intellectual Property (SABAA) mainly deal with the activities of Intellectual property rights (IP).</p>
+
+<p>Our mission is to help our customers to know the best information on which the base IP rights and decisions, and the best support to help implement those decisions.</p>
+
+<p>Our firm assists in managing valuable IP Rights, such as patents, designs and trademarks, ensuring that IP portfolios are protected, maintained and regualarly reviewed in order to optimize value. We work closely with our clients; we ensure they obtained best advise and appropriate process.</p>
+
+<p>Based on strong comment to the profession and community, SABAA is supported by specially selected members who are qualified, experienced and skillful. All of our staff shares this commitment to provide clients and associates with quality service and advice on a wide range of trademark, patent and copyright issues, all in efficient cost and effective manner.<p>
+
+<p>In particular, our firm in dual acts either as consulting house or as a legal firm in order to handle the area of registration and renewal proceeding of trade mark, patents Industrial designs, copy rights, license, and disputes which may arise out of or in connection with this subject. Our Firm handles any matter relating to any disputes for foreign clients in the field of IP.<p>
+
+</div>
+<div class="col-xs-6" style="text-align:right;font-size:13px;">
+<p>hello</p>
+<h4>سبأ للملكية الفكرية</h4>
+
+<p>الأفاضل الأعزاء:</p>
+
+<p>نود أن نستغل هذه الفرصة لنعرفكم بمكتبنا سبأ للملكية الفكرية(سبأ)، والذي يمارس نشاطاته الأساسية فى مجال حقوق الملكية الفكرية .</p>
+
+<p>إن واجبنا الأساسي هو مساعدة عملائنا الكرام لمعرفة أفضل المعلومات التي يتأسس عليها مبدأ حقوق الملكية الفكرية وعملية إتخاذ القرارات بشأنها، وتقديم الدعم الأفضل للمساعدة في تطبيق تلك القرارات.</p>
+
+<p>يقوم مكتبنا بالمساعدة فى عملية إدارة الحقوق القيمة التي تنبني عليها الملكية الفكرية مثل براءات الإختراع، التصاميم، العلامات التجارية، وضمان الحقوق المآزرة للملكية الفكرية وحمايتها، وصيانتها والتأكد من مراجعتها بصورة منتظمة، وذلك بغرض الحصول علي أعلي قيمة. نحن نعمل جنباً إلى جنب مع موكلينا لضمان حصولهم على أفضل نصائح وعلى إجراءات سليمة.</p>
+
+<p>تأسيساً على الملاحظات والتوجيهات القوية للمهنيين وللمجتمع، سبأ تقدم دعمها بواسطة أعضائها الذين تم إختيارهم خصيصاً، وهم على درجة من الكفاءة والتأهيل، ولديهم الخبرات والمهارات العالية. كل أعضاء فريق العمل بمكتبنا ملتزمون بتقديم لموكلينا أو الموظفين التابعين لهم خدمات ذات جودة عالية والنصح والإرشاد بشكل أوسع فى المسائل المتعلقة بالعلامات التجارية، براءات الإختراع، حقوق الطبع، وبسعر مناسب وبصورة فعالة.</p>
+
+<p>على وجه الخصوص، إن أعمال مكتبنا هي ثنائية المهام، حيث أننا نعمل كبيت إستشاري أو مكتب إستشارات قانونية لتولي وتطغية العمل فى مجال القيام بإجراءات التسجيلات والتجديدات للعلامات التجارية، براءات الإختراع، التصاميم الصناعية، حقوق الطبع، الرخص، وأيضاً حل وفض النزاعات الناشئة عن أو المتعلقة بهذا الموضوع. أيضا يقوم مكتبنا بتولي أى مسائل تتعلق بأى نزاعات للموكلين الأجانب فى مجال حقوق الملكية الفكرية.</p>        
+</div>
+
+</div>
+    
+
+    <hr class="colorgraph">
+    <p class="centered">Sabaa Intellectual Property - &copy; 2014</p>
+</div>
+
+<script type="text/javascript" src="<%= js %>"></script>
+</body>
+</html>

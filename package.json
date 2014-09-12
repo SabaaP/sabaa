@@ -1,0 +1,14 @@
+{
+  "name": "Sabaa_Intellectual_Property",
+  "description": "Sabaa Intellectual Property",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Praveen Gandhi",
+  "devDependencies": {
+    "lineman": "~0.29.2"
+  },
+  "scripts": {
+    "start": "lineman run",
+    "test": "lineman spec-ci"
+  }
+}
