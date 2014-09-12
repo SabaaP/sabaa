@@ -168,16 +168,16 @@
                 <h3>Forms</h3>
 
                 <ul>
-                    <li>Deed Of Assignments (DS)</li>
-                    <li>Deed Of Assignments (PT)</li>
-                    <li>Deed Of Assignments (TM)</li>
-                    <li>Power Of Attorney</li>
+                    <li><a href="forms/DEED_OF_ASSIGMENT_DESIGN.pdf" target="_new">Deed Of Assignments (DS)</a></li>
+                    <li><a href="forms/DEED_OF_ASSIGNMENT_PATENT.pdf" target="_new">Deed Of Assignments (PT)</a></li>
+                    <li><a href="forms/DEED_OF_ASSIGMENT_TRADEMARK.pdf" target="_new">Deed Of Assignments (TM)</a></li>
+                    <li><a href="forms/Sabaa_Intellectual_Property_Power_of_Attorney.pdf" target="_new">Power Of Attorney</a></li>
                 </ul>
                 <div class="seperate"></div>
                 <h3>Requirements</h3>
 
                 <ul>
-                    <li>* Requirements</li>
+                    <li><a href="forms/REQUIREMENTS.pdf" target="_new">* Requirements</a></li>
                 </ul>
                 <div class="seperate"></div>
                 <h3>Tariff Of Charges</h3>
@@ -235,7 +235,6 @@
 
 </div>
 <div class="col-xs-6" style="text-align:right;font-size:13px;">
-<p>hello</p>
 <h4>سبأ للملكية الفكرية</h4>
 
 <p>الأفاضل الأعزاء:</p>
