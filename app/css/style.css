@@ -43,3 +43,8 @@ body {
     text-align: center;
 }
 
+@font-face{
+    font-family:'ArabicFonts';
+    src:url(../fonts/trado.ttf);
+}
+
