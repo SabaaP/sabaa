@@ -43,8 +43,7 @@ body {
     text-align: center;
 }
 
-@font-face{
-    font-family:'ArabicFonts';
-    src:url(../fonts/trado.ttf);
+.contact_div{
+    padding:19px;background-color:#e97122;background-image:none;border-radius:5px;
 }
 

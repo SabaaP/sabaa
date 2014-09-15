@@ -190,12 +190,12 @@
             </div>
         </div>
     </div>
-    <div id="contact">&nbsp;</div>
+    <div id="contact" class="seperate">&nbsp;</div>
     <hr class="colorgraph">
     <div class="row">
     <div class="col-xs-12">
         <h3><span class="label label-info" style="background-color:#0c56a3;">Get in touch and go tell your friends..!</span></h3>
-        <div class="well" style="background-color:#e97122;background-image:none;">
+        <div class="contact_div">
     
         <p><b>Postal Address</b><br/><br/>
 
@@ -215,40 +215,31 @@
     </div>
     </div>
 
-    <div id="about" class="separate"></div>
+    <div id="about" class="separate">&nbsp;</div>
+    <div class="separate">&nbsp;</div>
+    <div class="separate">&nbsp;</div>
     <hr class="colorgraph">
     <div class="row">
 <div class="col-xs-6">
 
 <h4>SABAA Intellectual Property</h4>
+<br/>
 <p>Dear Sir;</p>
 
 <p>We took this opportunity of introduce our Firm, SABAA Intellectual Property (SABAA) mainly deal with the activities of Intellectual property rights (IP).</p>
+<br/>
 
-<p>Our mission is to help our customers to know the best information on which the base IP rights and decisions, and the best support to help implement those decisions.</p>
+<p>Our mission is to help our customers to know the best information on which the base IP rights and decisions, and the best support to help implement those decisions.</p><br/>
 
-<p>Our firm assists in managing valuable IP Rights, such as patents, designs and trademarks, ensuring that IP portfolios are protected, maintained and regualarly reviewed in order to optimize value. We work closely with our clients; we ensure they obtained best advise and appropriate process.</p>
+<p>Our firm assists in managing valuable IP Rights, such as patents, designs and trademarks, ensuring that IP portfolios are protected, maintained and regualarly reviewed in order to optimize value. We work closely with our clients; we ensure they obtained best advise and appropriate process.</p><br/><br/>
 
-<p>Based on strong comment to the profession and community, SABAA is supported by specially selected members who are qualified, experienced and skillful. All of our staff shares this commitment to provide clients and associates with quality service and advice on a wide range of trademark, patent and copyright issues, all in efficient cost and effective manner.<p>
+<p>Based on strong comment to the profession and community, SABAA is supported by specially selected members who are qualified, experienced and skillful. All of our staff shares this commitment to provide clients and associates with quality service and advice on a wide range of trademark, patent and copyright issues, all in efficient cost and effective manner.<p><br/>
 
 <p>In particular, our firm in dual acts either as consulting house or as a legal firm in order to handle the area of registration and renewal proceeding of trade mark, patents Industrial designs, copy rights, license, and disputes which may arise out of or in connection with this subject. Our Firm handles any matter relating to any disputes for foreign clients in the field of IP.<p>
 
 </div>
-<div class="col-xs-6" style="text-align:right;font-size:14px;font-family:'ArabicFonts';">
-<h4>سبأ للملكية الفكرية</h4>
-
-<p>الأفاضل الأعزاء:</p>
-
-<p>نود أن نستغل هذه الفرصة لنعرفكم بمكتبنا سبأ للملكية الفكرية(سبأ)، والذي يمارس نشاطاته الأساسية فى مجال حقوق الملكية الفكرية .</p>
-
-<p>إن واجبنا الأساسي هو مساعدة عملائنا الكرام لمعرفة أفضل المعلومات التي يتأسس عليها مبدأ حقوق الملكية الفكرية وعملية إتخاذ القرارات بشأنها، وتقديم الدعم الأفضل للمساعدة في تطبيق تلك القرارات.</p>
-
-<p>يقوم مكتبنا بالمساعدة فى عملية إدارة الحقوق القيمة التي تنبني عليها الملكية الفكرية مثل براءات الإختراع، التصاميم، العلامات التجارية، وضمان الحقوق المآزرة للملكية الفكرية وحمايتها، وصيانتها والتأكد من مراجعتها بصورة منتظمة، وذلك بغرض الحصول علي أعلي قيمة. نحن نعمل جنباً إلى جنب مع موكلينا لضمان حصولهم على أفضل نصائح وعلى إجراءات سليمة.</p>
-
-<p>تأسيساً على الملاحظات والتوجيهات القوية للمهنيين وللمجتمع، سبأ تقدم دعمها بواسطة أعضائها الذين تم إختيارهم خصيصاً، وهم على درجة من الكفاءة والتأهيل، ولديهم الخبرات والمهارات العالية. كل أعضاء فريق العمل بمكتبنا ملتزمون بتقديم لموكلينا أو الموظفين التابعين لهم خدمات ذات جودة عالية والنصح والإرشاد بشكل أوسع فى المسائل المتعلقة بالعلامات التجارية، براءات الإختراع، حقوق الطبع، وبسعر مناسب وبصورة فعالة.</p>
-
-<p>على وجه الخصوص، إن أعمال مكتبنا هي ثنائية المهام، حيث أننا نعمل كبيت إستشاري أو مكتب إستشارات قانونية لتولي وتطغية العمل فى مجال القيام بإجراءات التسجيلات والتجديدات للعلامات التجارية، براءات الإختراع، التصاميم الصناعية، حقوق الطبع، الرخص، وأيضاً حل وفض النزاعات الناشئة عن أو المتعلقة بهذا الموضوع. أيضا يقوم مكتبنا بتولي أى مسائل تتعلق بأى نزاعات للموكلين الأجانب فى مجال حقوق الملكية الفكرية.</p>        
-</div>
+<div class="col-xs-6" style="text-align:right;font-size:14px;">
+<img src="img/about_us_arabic.png" alt=""></div>
 
 </div>
     
